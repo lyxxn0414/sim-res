@@ -1,0 +1,65 @@
+Loading Inst and Config
+Load finish
+sim_mode:0
+Reading Inst From Json
+core_array size:144,chip_config.core_cnt: 144,json_inst.size():145
+Read finish
+Start Simulation
+Progress --- <10%>
+Progress --- <20%>
+Progress --- <30%>
+Progress --- <40%>
+Progress --- <50%>
+Progress --- <60%>
+Progress --- <70%>
+Progress --- <80%>
+Progress --- <90%>
+Simulation Finish
+|*************** Simulation Report ***************|
+Basic Information:
+  - config file:        C:/Users/pc/sim-ly/test/resnet18/config.json
+  - inst file:          C:/Users/pc/sim-ly/test/resnet18/googlenet-12.gz
+  - verbose level:      0
+  - core count:         144
+  - simulation mode:    0
+  - simulation time:    200 ms
+Chip Simulation Result:
+  - output count:       2.58 samples
+  - throughput:         12.9 samples/s
+  - average latency:    77.4 ms
+  - average power:      6.49e+03 mW
+  - average energy:     5.03e+11 pJ/it
+  - sldi                18581234 
+  - sld                        0 
+  - sadd                       0 
+  - ssub                       0 
+  - smul                       0 
+  - saddi                      0 
+  - smuli                      0 
+  - setbw                      0 
+  - mvmul                 968664 
+  - vmatmul                    0 
+  - vsnn                       0 
+  - vvadd                 968542 
+  - vvsub                      0 
+  - vvmul                      6 
+  - vvdmul                     0 
+  - vvmax                 456622 
+  - vvsll                      0 
+  - vvsra                      0 
+  - vavg                       0 
+  - vrelu                 304790 
+  - vtanh                      0 
+  - vsigm                      0 
+  - vmv                        0 
+  - vrsu                       0 
+  - vrsl                       0 
+  - ld                    953711 
+  - st                         0 
+  - lldi                   42251 
+  - lmv                  4611044 
+  - send                  294140 
+  - recv                  294129 
+  - wait                       0 
+  - sync                       0 
+
