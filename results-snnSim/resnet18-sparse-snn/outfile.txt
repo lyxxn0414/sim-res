@@ -1,0 +1,78 @@
+node11
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      3136
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.64 ms
+  - average energy:     34621.441 pJ/it
+
+
+
+node12
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      5488
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.65 ms
+  - average energy:     60587.52 pJ/it
+
+
+
+node21
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      2047
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.17 ms
+  - average energy:     22598.881 pJ/it
+
+
+
+node22
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1881
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.17 ms
+  - average energy:     20766.24 pJ/it
+
+
+
+node31
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      403
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.055 ms
+  - average energy:     4449.1201 pJ/it
+
+
+
+node32
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      506
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.055 ms
+  - average energy:     5586.2402 pJ/it
+
+
+

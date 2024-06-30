@@ -18,15 +18,14 @@ Simulation Finish
 |*************** Simulation Report ***************|
 Basic Information:
   - config file:        C:/Users/pc/sim-ly/test/resnet18/config.json
-  - inst file:          C:/Users/pc/sim-ly/test/resnet18/vgg16-7-snn.gz
+  - inst file:          C:/Users/pc/sim-ly/test/resnet18/resnet18-dense-snn.gz
   - verbose level:      0
   - core count:         144
   - simulation mode:    0
   - simulation time:    200 ms
 Chip Simulation Result:
-  - output count:       1.15e+04 samples
-  - throughput:         5.74e+04 samples/s
-  - average latency:    0.0174 ms
-  - average power:      6.39e+03 mW
-  - average energy:     1.11e+08 pJ/it
-
+  - output count:       6.25 samples
+  - throughput:         31.2 samples/s
+  - average latency:    32 ms
+  - average power:      6.47e+03 mW
+  - average energy:     2.07e+11 pJ/it

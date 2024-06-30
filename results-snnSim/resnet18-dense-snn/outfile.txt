@@ -1,0 +1,169 @@
+node10
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      9408
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.65 ms
+  - average energy:     103864.32 pJ/it
+
+
+
+node15
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      2090
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.17 ms
+  - average energy:     23073.6 pJ/it
+
+
+
+node18
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1894
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.17 ms
+  - average energy:     20909.76 pJ/it
+
+
+
+node20
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1223
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.17 ms
+  - average energy:     13501.92 pJ/it
+
+
+
+node25
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      502
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.055 ms
+  - average energy:     5542.0801 pJ/it
+
+
+
+node28
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      588
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.055 ms
+  - average energy:     6491.52 pJ/it
+
+
+
+node3
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      6052
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.65 ms
+  - average energy:     66814.078 pJ/it
+
+
+
+node30
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      522
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.055 ms
+  - average energy:     5762.8799 pJ/it
+
+
+
+node35
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      97
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.026 ms
+  - average energy:     1070.88 pJ/it
+
+
+
+node38
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      127
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.026 ms
+  - average energy:     1402.08 pJ/it
+
+
+
+node40
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      121
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.026 ms
+  - average energy:     1335.84 pJ/it
+
+
+
+node5
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      7186
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.65 ms
+  - average energy:     79333.438 pJ/it
+
+
+
+node8
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      8885
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.65 ms
+  - average energy:     98090.398 pJ/it
+
+
+
