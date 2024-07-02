@@ -1,0 +1,11 @@
+Loading Inst and Config
+Load finish
+sim_mode:0
+Reading Inst From Json
+core_array size:144,chip_config.core_cnt: 144,json_inst.size():145
+Read finish
+Start Simulation
+Progress --- <10%>
+Progress --- <20%>
+Progress --- <30%>
+Progress --- <40%>

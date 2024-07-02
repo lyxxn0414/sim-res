@@ -1,0 +1,33 @@
+Loading Inst and Config
+Load finish
+sim_mode:0
+Reading Inst From Json
+core_array size:144,chip_config.core_cnt: 144,json_inst.size():145
+Read finish
+Start Simulation
+Progress --- <10%>
+Progress --- <20%>
+Progress --- <30%>
+Progress --- <40%>
+Progress --- <50%>
+Progress --- <60%>
+Progress --- <70%>
+Progress --- <80%>
+Progress --- <90%>
+Simulation Finish
+|*************** Simulation Report ***************|
+Basic Information:
+  - config file:        C:/Users/pc/sim-ly/test/resnet18/config.json
+  - inst file:          C:/Users/pc/sim-ly/test/resnet18/spikformer-all-snn.gz
+  - verbose level:      0
+  - core count:         144
+  - simulation mode:    0
+  - simulation time:    500 ms
+Chip Simulation Result:
+  - output count:       121 samples
+  - throughput:         241 samples/s
+  - average latency:    4.15 ms
+  - average power:      6.38e+03 mW
+  - average energy:     2.65e+10 pJ/it
+  - sldi                133069203 
+

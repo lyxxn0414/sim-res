@@ -1,0 +1,145 @@
+node109
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      725
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     8004 pJ/it
+
+
+
+node160
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      152
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.029 ms
+  - average energy:     1678.08 pJ/it
+
+
+
+node214
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      116
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.029 ms
+  - average energy:     1280.64 pJ/it
+
+
+
+node274
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1599
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     17652.961 pJ/it
+
+
+
+node432
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1566
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     17288.641 pJ/it
+
+
+
+node434
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1765
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     19485.6 pJ/it
+
+
+
+node485
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1841
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     20324.641 pJ/it
+
+
+
+node544
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1636
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     18061.439 pJ/it
+
+
+
+node59
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      518
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     5718.7202 pJ/it
+
+
+
+node602
+  - config file:        C:\Users\pc\PIMCOMP-SIM\test\resnet18\config.json
+  - inst file:          C:\Users\pc\PIMCOMP-SIM\test\resnet18\full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1968
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.21 ms
+  - average energy:     21726.721 pJ/it
+
+
+
+node7
+  - config file:        C:/Users/pc/PIMCOMP-SIM/test/resnet18/config.json
+  - inst file:          C:/Users/pc/PIMCOMP-SIM/test/resnet18/full.gz
+  - verbose level:      0
+  - core count:         136
+  - spike neurons:      1016
+  - simulation mode:    1
+Chip Simulation Result:
+  - latency:            0.067 ms
+  - average energy:     11216.64 pJ/it
+
+
+
+
+
