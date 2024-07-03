@@ -1,0 +1,14 @@
+|*************** Simulation Report ***************|
+Basic Information:
+  - config file:        C:/Users/pc/sim-ly/test/resnet18/config.json
+  - inst file:          C:/Users/pc/sim-ly/test/resnet18/spikformer-conv-snn.gz
+  - verbose level:      0
+  - core count:         144
+  - simulation mode:    0
+  - simulation time:    200 ms
+Chip Simulation Result:
+  - output count:       34.8 samples
+  - throughput:         174 samples/s
+  - average latency:    5.74 ms
+  - average power:      6.4e+03 mW
+  - average energy:     3.67e+10 pJ/it
